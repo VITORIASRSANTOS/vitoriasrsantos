@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou Vitoria! Sou estudante de Data Science e Academica de Engenharia de Software pela UEPA 📚
+
+<div align="center">
+  <a href="https://https://github.com/VITORIASRSANTOS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VITORIASRSANTOS&show_icons=true&icon-color=48C9B0&include_all_commits=true&count_private=true&title_color=28B463"/>
+  <img height="180em" src="https://github-readme-sta=#28B463ts.vercel.app/api/top-langs/?username=VITORIASRSANTOS&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+
+
+
 
 <!--
 **VITORIASRSANTOS/vitoriasrsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
