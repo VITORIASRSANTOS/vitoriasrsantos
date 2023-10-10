@@ -2,7 +2,7 @@
 
 <h5 align="right">🔭 I'm currently a software engineering student📚 </h5>
 <h5 align="right">🌱 I’m currently learning data science!</h5>
-<h5 align="right">⚡ Fun fact:I'm afraid of butterflies</h5>
+
 
 
 <div align="center">
